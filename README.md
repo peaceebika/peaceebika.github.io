@@ -16,5 +16,6 @@ Coaching and mentoring students and professionals
 Creating tech-powered solutions across business, health, engineering, and fashion
 
 🎥 I also run a YouTube channel where I teach Optimization, Python, Data Science, and Mathematics in clear, step-by-step lessons:
+[YouTube – TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace)
 
 Let’s connect and create something good and meaningful. 🤝
