@@ -7,13 +7,13 @@ I hold a Master’s degree in Data Science, and I’m currently conducting PhD r
 
 I’m passionate about:
 
-Building intelligent systems
+- Building intelligent systems
 
-Solving complex problems with Machine Learning & AI
+- Solving complex problems with Machine Learning & AI
 
-Coaching and mentoring students and professionals
+- Coaching and mentoring students and professionals
 
-Creating tech-powered solutions across business, health, engineering, and fashion
+- Creating tech-powered solutions across business, health, engineering, and fashion
 
 🎥 I also run a YouTube channel where I teach Optimization, Python, Data Science, and Mathematics in clear, step-by-step lessons:
 [YouTube – TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace)
