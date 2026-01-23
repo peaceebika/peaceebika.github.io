@@ -3,7 +3,7 @@
 # Hey, I'm PEACE
 I’m a PhD student at UDLAP, a Data Scientist, and a Software Engineer. I specialize in solving real-world problems through data-driven solutions, Artificial Intelligence, and scalable software systems.
 
-I hold a Master’s degree in Data Science, and I’m currently conducting PhD research in Machine Learning and Artificial Intelligence. My work and projects sit at the intersection of AI, data science, and impactful technology.
+I hold a Master’s degree in Data Science at CWRU, and I’m currently conducting PhD research in Machine Learning and Artificial Intelligence. My work and projects sit at the intersection of AI, data science, and impactful technology.
 
 I’m passionate about:
 
