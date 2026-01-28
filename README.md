@@ -9,7 +9,7 @@ I’m passionate about:
 
 - Building intelligent systems
 
-- Solving complex problems with Machine Learning & AI
+- Solving complex problems with data Science, Machine Learning & AI
 
 - Coaching and mentoring students and professionals @ [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace)
 
