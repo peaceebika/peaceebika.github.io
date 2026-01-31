@@ -11,7 +11,7 @@ I’m passionate about:
 
 - Solving complex problems with data Science, Machine Learning & AI
 
-- Coaching and mentoring students and professionals @ [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace)
+- Coaching and mentoring students and professionals at [TechOnline with Peace](https://www.youtube.com/@TechOnlinewithPeace)
 
 - Creating tech-powered solutions across business, health, engineering, and fashion
 
